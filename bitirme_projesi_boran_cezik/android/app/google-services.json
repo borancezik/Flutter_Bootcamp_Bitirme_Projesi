@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189744813460",
+    "firebase_url": "https://foodapp-20f94-default-rtdb.firebaseio.com",
+    "project_id": "foodapp-20f94",
+    "storage_bucket": "foodapp-20f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189744813460:android:7107a1f01f05a1fb8d2b81",
+        "android_client_info": {
+          "package_name": "com.example.bitirme_projesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189744813460-kd9jvpequ10j9eoj229ntvkt62ribn7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aKVDQvJDj2f_jxNQrbZN7uZTbwjnrX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189744813460-kd9jvpequ10j9eoj229ntvkt62ribn7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
